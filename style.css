@@ -12,12 +12,11 @@
 }
 .images1 {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 } 
 .andy, .banne, .betwitched {
     height: 200px;
     padding: 20px;
-    margin-left: 10px;
 }
 .second-container {
     width: 750px;
@@ -41,11 +40,11 @@
 }
 .images3 {
     display: flex;
+    justify-content: space-evenly;
 }
 .fintech, .kimono, .max {
     height: 200px;
     padding: 20px;
-    margin-left: 10px;
 }
 .credit {
     text-align: center;
